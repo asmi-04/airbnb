@@ -66,10 +66,11 @@ Note : Remember when you host/open start with "/listings" at the end of your url
    git clone https://github.com/asmi-04/airbnb.git
    cd airbnb
 
-## 2. Install Dependencies in Bash  
-npm install
+2. **Install Dependencies in Bash**
+3. ```bash
+   npm install
 
-3.Set up Environment Variables
+3.**Set up Environment Variables**
   Create a .env file and add:
 
 DATABASE_URL=your_mongodb_connection_string
@@ -79,5 +80,8 @@ CLOUDINARY_SECRET=your_cloudinary_api_secret
 MAPBOX_TOKEN=your_mapbox_token
 JWT_SECRET=your_jwt_secret
 
-🧑‍💻 Author
-:Built with ❤️ by Asmi Jain
+🧑‍💻**Author**
+Built with ❤️ by Asmi Jain
+
+![IMG_7526](https://github.com/user-attachments/assets/232c765a-4a7b-4393-bff1-fcb829e46474)
+
