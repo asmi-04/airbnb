@@ -67,7 +67,7 @@ Note : Remember when you host/open start with "/listings" at the end of your url
    cd airbnb
 
 2.Install Dependencies in bash:
-  npm install
+  -npm install
 
 3.Set up Environment Variables
   Create a .env file and add:
@@ -80,4 +80,4 @@ MAPBOX_TOKEN=your_mapbox_token
 JWT_SECRET=your_jwt_secret
 
 🧑‍💻 Author
-Built with ❤️ by Asmi Jain
+-Built with ❤️ by Asmi Jain
