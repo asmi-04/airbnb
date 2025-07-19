@@ -84,9 +84,7 @@ JWT_SECRET=your_jwt_secret
 ## 📸 Screenshots
 
 ###  Home Page
-<img src="assets/login.png" alt="Login Page" width="500"/>
-![IMG_7526](https://github.com/user-attachments/assets/bec80ead-0f2f-4841-96dc-bcaa64d66a1b)
-
+<img width="1531" height="837" alt="image" src="https://github.com/user-attachments/assets/987e8d1e-85f7-424f-91bc-e0bca23530a8" />
 
 ### Create Listing Page
 <img width="1544" height="885" alt="image" src="https://github.com/user-attachments/assets/6ce6edd0-a847-4c99-89aa-41a9f4305099" />
@@ -100,7 +98,6 @@ JWT_SECRET=your_jwt_secret
 
 ### Signup Page
 <img width="1540" height="872" alt="image" src="https://github.com/user-attachments/assets/6ded00e9-2e09-420b-81ee-081a052b7b46" />
-
 
 ---
 
