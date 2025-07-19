@@ -80,6 +80,8 @@ CLOUDINARY_SECRET=your_cloudinary_api_secret
 MAPBOX_TOKEN=your_mapbox_token
 JWT_SECRET=your_jwt_secret
 
-🧑‍💻**Author**
+---
+
+## 🧑‍💻 Author
 Built with ❤️ by Asmi Jain
 
