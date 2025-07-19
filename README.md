@@ -83,5 +83,3 @@ JWT_SECRET=your_jwt_secret
 🧑‍💻**Author**
 Built with ❤️ by Asmi Jain
 
-![IMG_7526](https://github.com/user-attachments/assets/232c765a-4a7b-4393-bff1-fcb829e46474)
-
