@@ -81,6 +81,28 @@ MAPBOX_TOKEN=your_mapbox_token
 JWT_SECRET=your_jwt_secret
 
 ---
+## 📸 Screenshots
+
+###  Home Page
+<img src="assets/login.png" alt="Login Page" width="500"/>
+![IMG_7526](https://github.com/user-attachments/assets/bec80ead-0f2f-4841-96dc-bcaa64d66a1b)
+
+
+### Create Listing Page
+<img width="1544" height="885" alt="image" src="https://github.com/user-attachments/assets/6ce6edd0-a847-4c99-89aa-41a9f4305099" />
+
+
+### Mapbox Integration
+<img width="1574" height="882" alt="image" src="https://github.com/user-attachments/assets/3008aaab-1c7f-4df3-a2cb-df62cf85c275" />
+
+### Each listing Page
+<img width="1550" height="879" alt="image" src="https://github.com/user-attachments/assets/4e06e0f5-9956-4b4c-a9e3-285f1420ba67" />
+
+### Signup Page
+<img width="1540" height="872" alt="image" src="https://github.com/user-attachments/assets/6ded00e9-2e09-420b-81ee-081a052b7b46" />
+
+
+---
 
 ## 🧑‍💻 Author
 Built with ❤️ by Asmi Jain
