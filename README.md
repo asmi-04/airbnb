@@ -1,6 +1,6 @@
 # 🏡 Airbnb  Project (MERN Stack)
 
-This is a full-stack Airbnb clone built using **Node.js, Express, MongoDB, and EJS** on the backend and **vanilla HTML, CSS, and JavaScript** on the frontend.
+This is a full-stack Airbnb clone built using **Node.js, Express,js, MongoDB, and EJS** on the backend and **vanilla HTML, CSS, and JavaScript** on the frontend.
 
 ## 🚀 Live Demo
 
